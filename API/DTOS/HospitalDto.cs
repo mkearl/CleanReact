@@ -1,0 +1,1 @@
+public record HospitalDto(int Id, string? Name, string? Address, string? Country, int Staff);
